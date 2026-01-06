@@ -1,0 +1,10 @@
+*{
+    background-color: pink;
+}
+
+.head{
+    display: flex;
+    gap: 20px;
+}
+
+
